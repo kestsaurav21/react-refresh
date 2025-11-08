@@ -1,20 +1,5 @@
-# React-7Days
+# ⚛️ React Refresh
 
-Welcome to **React-7Days**! This repository is dedicated to building a new React project each day for 7 days to strengthen and solidify core React concepts.
-
-## Overview
-
-The **React-7Days** challenge is designed to:
-- Build hands-on experience with React.js
-- Explore essential concepts such as components, state, props, hooks, and more
-- Enhance problem-solving skills and creativity with daily projects
-- Create a collection of small, focused React projects
-
-
-## Projects
-
-| Day | Project Name      | Description                                     | Key Concepts Covered             |
-|-----|-------------------|-------------------------------------------------|----------------------------------|
-| 1   | Todo App          | A simple todo app with CRUD functionality.      | Components, State, Props, Redux  |
-
+This repo contains short exercises and mini-projects to **refresh my React skills**.  
+I’m revisiting core concepts and practicing common interview challenges.
 
